@@ -1,23 +1,7 @@
-## Hi there 👋
-
-<!--
-**clarkhayashi/clarkhayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hey, I'm Clark 👋
 
 **Analytics × AI × Marketing** | Seattle University '26  
-From Hawaii. Studied in Tokyo. Building in Seattle.
+Born and raised in Hawaii. Studied in Tokyo. Building in Seattle/beyond.
 
 ---
 
@@ -46,7 +30,6 @@ In summer 2025, I was one of the first AI interns at Hawaii's largest bank. I ga
 - 👯 Open to collaborate on anything
 - 🤔 Looking for help with career advice, breaking into industry, and building my portfolio
 - 💬 Ask me about travel, sports, or tech
-- 📫 Reach me at chayashi@seattleu.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a practice player for Seattle U's D1 women's basketball team
 
