@@ -1,7 +1,7 @@
 # Hey, I'm Clark 👋
 
 **Analytics × AI × Marketing** | Seattle University '26  
-Born and raised in Hawaii. Studied in Tokyo. Building in Seattle/beyond.
+Born and raised in Hawaii. Studied abroad in Tokyo/Italy. Building in Seattle/beyond.
 
 ---
 
