@@ -3,6 +3,10 @@
 **Analytics × AI × Marketing** | Seattle University '26  
 Born and raised in Hawaii. Studied abroad in Tokyo/Italy. Building in Seattle/beyond.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="clark-hayashi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/clark-hayashi?trk=profile-badge">Clark Hayashi</a></div>
+              
+
 ---
 
 In summer 2025, I was one of the first AI interns at Hawaii's largest bank. I gathered AI use cases across the organization, built a Power BI dashboard, and designed a scoring model to help leadership prioritize what to build next. I'm a founding member and now COO of my university's credit union startup. Currently a rec sports manager helping out with marketing on the side. Passionate about people and getting things done.
